@@ -1,0 +1,29 @@
+body {
+  background-image: url(../img/fondo.jpg);
+}
+nav {
+  min-height: 8rem;
+}
+.logo {
+  width: 50%;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+.alinear {
+  text-align: left;
+  margin-top: 5rem;
+  margin-left: 8rem;
+}
+.tamaño {
+  width: 80%;
+  padding-top: 20px;
+}
+.alto {
+  min-height: 80rem;
+}
+.imagen {
+  float: left;
+  padding: 10px;
+  border-style: groove;
+}
