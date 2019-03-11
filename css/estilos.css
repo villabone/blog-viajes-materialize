@@ -6,7 +6,7 @@ nav {
 }
 .logo {
   width: 50%;
-  margin-left: 20px;
+  margin-left: 10px;
   margin-top: 20px;
   border-radius: 10px;
 }
@@ -26,4 +26,9 @@ nav {
   float: left;
   padding: 10px;
   border-style: groove;
+}
+@media screen and (max-width: 768px) {
+  .logo {
+    text-align: right;
+  }
 }
